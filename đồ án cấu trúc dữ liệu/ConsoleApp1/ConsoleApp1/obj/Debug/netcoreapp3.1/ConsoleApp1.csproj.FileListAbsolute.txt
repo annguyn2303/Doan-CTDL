@@ -1,0 +1,14 @@
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\CẤU TRÚC DỮ LIỆU\đồ án cấu trúc dữ liệu\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
